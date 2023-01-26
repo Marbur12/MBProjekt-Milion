@@ -5,8 +5,8 @@
 Gra jest insirowana gameshow "Postaw na milion", a pytania związane są z Politechniką Białostocką
 
 Po wyświetleniu pytania możesz obstawiać ile chcesz z swojego budżetu na dane pytanie
-* tylko jedna odpowiedź jest poprawna*
-* wszystkie odpowiedzi są finalne*
+* *tylko jedna odpowiedź jest poprawna*
+* *wszystkie odpowiedzi są finalne*
 
 
 
